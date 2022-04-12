@@ -26,4 +26,6 @@
 /* Set 0 if debouncing isn't needed */
 #define DEBOUNCING_DELAY 5
 
+#define TAPPING_TOGGLE 2
+
 #endif
