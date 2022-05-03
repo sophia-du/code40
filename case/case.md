@@ -1,0 +1,13 @@
+# Case Specifications
+- 8 layer stacked case
+## 3D Printed Layers
+- Layers 1, 3, 4, 8
+- 0.20 mm speed, 15% infill on Prusa MK3
+## Acrylic Layers
+- Layers 2, 5, 6, 7
+- 3 mm, laser cut
+## Other Hardware
+| Component | Amount |
+|-----------|--------|
+| M3 6mm Screws | 16 |
+| M3 20mm Standoffs | 8 |
