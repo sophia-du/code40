@@ -11,3 +11,5 @@
 | 1N4148 Diodes | 47 |
 | Cherry MX Compatible Switches | 47 |
 | 2u PCB Mounted Stabilizers | 1 |
+## Assembly
+![soldered](https://github.com/sophia-du/code40/blob/main/images/keyboard_soldered.jpg?raw=true)
