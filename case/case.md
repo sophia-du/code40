@@ -11,6 +11,7 @@
 ## Other Hardware
 | Component | Amount |
 |-----------|--------|
-| M3 6mm Screws | 16 |
-| M3 20mm Standoffs | 8 |
-| Rubber Feet | 4 |
+| M3 6 mm Screws | 16 |
+| M3 20 mm Standoffs | 8 |
+| 10 mm Circular Rubber Feet | 2 |
+| 21 mm Circular Rubber Feet | 2 |
