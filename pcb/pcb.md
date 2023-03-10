@@ -5,7 +5,7 @@
 | Component | Amount |
 |-----------|--------|
 | Pro-Micro Compatible Microcontroller w/ Headers| 1 |
-| 6 mm x 6 mm Push Button | 1 |
+| 6 x 6 mm Push Button | 1 |
 | 100 Ω Through-Hole Resistors | 2 |
 | 5 mm Through-Hole LEDs | 2 |
 | 1N4148 Diodes | 47 |
